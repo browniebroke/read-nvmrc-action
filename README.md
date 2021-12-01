@@ -1,6 +1,10 @@
+**DEPRECATED** this action is no longer required as it's now supported natively by actions/setup-node@v2
+
 # Read nvmrc action
 
 Simple action to read value from `.nvmrc` file.
+
+
 
 ## Usage
 
